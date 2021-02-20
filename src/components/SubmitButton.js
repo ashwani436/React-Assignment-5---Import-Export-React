@@ -1,7 +1,8 @@
-import React from 'react'
+import React from 'react';
 
-function SubmitButton() {
-    return (
+const SubmitButton=()=> {
+    return(
         <button>Ask</button>     
     )
 }
+export default SubmitButton;
